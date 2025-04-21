@@ -1,6 +1,6 @@
 # 🚀 Merge Sort in C++ (Linked List Implementation)
 
-Welcome to the **Merge Sort** implementation in C++! This repository showcases an efficient Merge Sort algorithm using a **Linked List**. Whether you're learning sorting algorithms or need a linked list-based sorting solution, this project is a great resource.
+Welcome to the **MERGE SORT** implementation in C++! This repository showcases an efficient Merge Sort algorithm using a **Linked List**. Whether you're learning sorting algorithms or need a linked list-based sorting solution, this project is a great resource.
 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue.svg)](https://github.com/sjd-1214/Sorting.git)
 
