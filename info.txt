@@ -1,1 +1,1 @@
-Here is the code of Merge Sort
+Here is the code of MERGE SORT
